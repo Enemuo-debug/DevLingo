@@ -1,0 +1,6 @@
+{
+  "name": "DevLingo",
+  "description": "Self-sustained developer gamified learning coach covering DevOps, Unity, Node.js, and ASP.NET with streak tracking and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

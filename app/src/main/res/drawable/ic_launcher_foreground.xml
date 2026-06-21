@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Bold Tech/Code brackets foreground representing DevLingo, centered inside 66dp zone -->
+    
+    <!-- Left Bracket < (Tech Green glow) -->
+    <path
+        android:pathData="M 38,36 L 24,54 L 38,72"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#00E676" />
+        
+    <!-- Right Bracket > (Tech Green glow) -->
+    <path
+        android:pathData="M 70,36 L 84,54 L 70,72"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#00E676" />
+
+    <!-- Center Slash / (Cloud Blue glow) -->
+    <path
+        android:pathData="M 60,30 L 48,78"
+        android:strokeWidth="7.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#2979FF" />
+
+    <!-- A small sparkling tech star at the top-right representing mastery -->
+    <path
+        android:pathData="M 80,24 L 83,27 L 86,24 L 83,21 Z"
+        android:fillColor="#FFFF9100" />
+</vector>
